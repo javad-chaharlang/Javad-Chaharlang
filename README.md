@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Javad Chaharlang</h1>
 
 <h3 align="center">
-Ph.D. Researcher | Quantum & Classical AI/ML | Data Science | Signal Processing | Data Security
+Researcher | Quantum & Classical AI/ML | Data Science | Signal Processing | Data Security
 </h3>
 
 ---
