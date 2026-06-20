@@ -124,6 +124,6 @@ I have extensive experience in academic research, university-level teaching, sci
 
 ## Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/javad-chaharlang-7b417555/
+- www.linkedin.com/in/javad-chaharlang-ph-d-7b417555
 - GitHub: https://github.com/javad-chaharlang
   
