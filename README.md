@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>
-    Computer Engineering Researcher specializing in Quantum AI, Machine Learning, Signal Processing, Data Science, and Multimedia Security
+    Research Scientist | Quantum ML & Quantum Security | AI & Data Science | Secure Signal Processing
   </strong>
 </p>
 
@@ -10,47 +10,39 @@
 
 ## About Me
 
-I am a **Computer Engineering researcher** with a strong academic and research background in computer systems, artificial intelligence, data science, signal processing, multimedia security, and quantum computing. I have more than **15 years of experience** in academic teaching, scientific research, technical writing, and applied research projects.
+I am a **Research Scientist and Ph.D. in Computer Engineering**, working across classical and quantum machine learning. I apply data-driven methods — supervised/unsupervised learning, time-series analysis, and complex-network analysis — to applied problems including fault diagnosis, intrusion detection, and optimization-driven control systems, alongside a research specialization in **Quantum Computing, Quantum Machine Learning (QML), Quantum Signal Processing, and Quantum Information Security**.
 
-My research focuses on the intersection of **classical artificial intelligence, machine learning, data science, signal processing, data security, and quantum computing**. I am particularly interested in developing intelligent, secure, and scalable computational methods for representing, processing, analyzing, and protecting classical data using both classical and quantum computational models.
+My core research focuses on quantum-based representation and processing of digital signals, including quantum-domain signal modeling, time–frequency analysis, feature extraction, and classification. I develop classical, quantum, and hybrid quantum–classical methods for quantum feature representation, secure information processing, multimedia intelligence, and biomedical AI.
 
-My research activities include **quantum machine learning, quantum signal processing, secure multimedia processing, audio steganography, watermarking, steganalysis, intelligent data-driven systems, optimization algorithms, and hybrid classical–quantum frameworks**.
-
-Through my work, I aim to build practical connections between classical AI, signal processing, secure data analysis, and the emerging capabilities of quantum computing, especially for applications that require **accuracy, scalability, robustness, security, privacy, and intelligent decision-making**.
+I have more than **15 years of experience** in academic teaching, scientific research, technical writing, and applied research projects, and I am open to international postdoctoral, research fellow, research scientist, and data scientist opportunities.
 
 ---
 
 ## Main Research Areas
 
 - Quantum Computing and Quantum Machine Learning
+- Quantum Information Security and Quantum Cryptography
 - Classical and Quantum Signal Processing
 - Artificial Intelligence and Machine Learning
 - Data Science and Data Mining
 - Secure Multimedia Processing
 - Audio Steganography, Watermarking, and Steganalysis
-- Audio and Digital Signal Processing
 - Data Security and Privacy-Aware Computing
 - Intelligent Data-Driven Systems
-- Internet of Things and Smart Monitoring Systems
 - Complex Networks and Graph-Based Analysis
 - Intelligent Control and Optimization
-- Metaheuristic and Evolutionary Optimization Algorithms
 
 ---
 
 ## Current Research Focus
 
-My current research focuses on bridging classical and quantum computational approaches for intelligent data analysis, secure multimedia systems, and robust signal processing. In particular, I am working on:
+I am currently working on hybrid classical–quantum machine learning models and quantum-based feature representation for secure signal and multimedia analysis. In particular:
 
-- Hybrid classical–quantum machine learning models
-- Quantum-inspired and quantum-based feature extraction methods
-- Quantum audio steganography and steganalysis
-- Secure multimedia data processing
-- AI-based signal analysis and classification
-- Optimization-based intelligent systems
-- Data-driven decision-making frameworks
-- Robust and secure signal representation methods
-- Quantum-enhanced multimedia security frameworks
+- Quantum kernel learning, variational quantum circuits, and quantum neural networks
+- QCNN-based readout for quantum-native signal classification
+- QFT / QHWT / QWPT-based signal transformations
+- Optimization-driven quantum audio watermarking and steganalysis
+- Extension of this security-focused foundation toward quantum cryptography and post-quantum secure signal processing
 
 ---
 
@@ -68,12 +60,9 @@ My current research focuses on bridging classical and quantum computational appr
   <img src="https://img.shields.io/badge/Google%20Colab-Research-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab" />
 </p>
 
-- Python
-- MATLAB
-- SQL
+- Python, MATLAB, SQL
 - Git and GitHub
-- Jupyter Notebook
-- Google Colab
+- Jupyter Notebook, Google Colab
 - Simulink
 
 ### Artificial Intelligence and Data Science
@@ -86,34 +75,25 @@ My current research focuses on bridging classical and quantum computational appr
   <img src="https://img.shields.io/badge/Optimization-Algorithms-6A5ACD?style=flat-square" alt="Optimization" />
 </p>
 
-- Machine Learning
-- Deep Learning
-- Data Mining
-- Feature Extraction
-- Feature Selection
+- Machine Learning, Deep Learning
+- Data Mining, Feature Extraction and Selection
 - Classification and Pattern Recognition
 - Model Evaluation and Performance Analysis
-- Optimization Algorithms
-- Data-Driven Modeling
-- Intelligent Decision Support Systems
+- Optimization Algorithms and Data-Driven Modeling
 
-### Quantum Computing and Signal Processing
+### Quantum Computing, Security, and Signal Processing
 
 <p>
   <img src="https://img.shields.io/badge/Quantum%20Computing-QC-6929C4?style=flat-square" alt="Quantum Computing" />
   <img src="https://img.shields.io/badge/Quantum%20Machine%20Learning-QML-8A2BE2?style=flat-square" alt="Quantum Machine Learning" />
-  <img src="https://img.shields.io/badge/Quantum%20Signal%20Processing-QSP-5B2C6F?style=flat-square" alt="Quantum Signal Processing" />
+  <img src="https://img.shields.io/badge/Quantum%20Security-Cryptography-5B2C6F?style=flat-square" alt="Quantum Security" />
   <img src="https://img.shields.io/badge/Signal%20Processing-DSP-00599C?style=flat-square" alt="Signal Processing" />
   <img src="https://img.shields.io/badge/Multimedia%20Security-Security-B22222?style=flat-square" alt="Multimedia Security" />
 </p>
 
-- Quantum Computing
-- Quantum Machine Learning
-- Quantum Signal Processing
-- Quantum-Inspired Algorithms
-- Digital Signal Processing
-- Audio Signal Processing
-- Secure Signal Representation
+- Quantum Computing, Quantum Machine Learning, Quantum-Inspired Algorithms
+- Quantum Signal Processing and Quantum Information Security
+- Digital and Audio Signal Processing
 - Steganography, Watermarking, and Steganalysis
 - Multimedia Security and Privacy-Aware Processing
 
@@ -121,57 +101,39 @@ My current research focuses on bridging classical and quantum computational appr
 
 ## Featured Project Areas
 
-### Quantum Computing and Quantum AI
+**Quantum Computing and Quantum AI** — Research and implementation of quantum-inspired and hybrid classical–quantum methods for data representation, feature extraction, signal processing, and secure data analysis.
 
-Research and implementation of quantum-inspired and hybrid classical–quantum methods for data representation, feature extraction, signal processing, intelligent classification, and secure data analysis.
+**Quantum and Multimedia Security** — Development of methods for audio steganography, watermarking, steganalysis, secure multimedia analysis, and privacy-aware signal processing.
 
-### Secure Multimedia and Signal Processing
+**Data Science and Machine Learning** — Applied machine learning and data-driven modeling for classification, fault diagnosis, intrusion detection, graph analysis, and intelligent decision-making.
 
-Development of methods for audio steganography, watermarking, steganalysis, secure multimedia analysis, robust data hiding, and privacy-aware signal processing.
-
-### Data Science and Machine Learning
-
-Application of machine learning and data-driven modeling for classification, fault diagnosis, intrusion detection, graph analysis, intelligent monitoring, and decision-making systems.
-
-### Intelligent Systems and Optimization
-
-Design and analysis of intelligent control systems, optimization-based algorithms, metaheuristic methods, evolutionary computation, and AI-supported engineering solutions.
+**Intelligent Systems and Optimization** — Design and analysis of intelligent control, optimization-based algorithms, and metaheuristic methods.
 
 ---
 
 ## Selected GitHub Project Directions
 
-Some of my GitHub repositories and research-oriented implementations are related to the following directions:
-
-- Quantum Audio Steganalysis
-- Quantum Audio Steganography and Watermarking
-- Quantum Signal Processing
-- Quantum Machine Learning Applications
+- Quantum Audio Steganalysis, Steganography, and Watermarking
+- Quantum Signal Processing and Quantum Machine Learning Applications
 - Classical and Hybrid AI/ML Models
 - Data Science and Machine Learning Applications
-- Community Detection in Social Networks
-- Influential Node Identification in Complex Networks
+- Community Detection and Influential-Node Identification in Complex Networks
 - Intrusion Detection in Software-Defined Networks
-- Diesel Engine Fault Diagnosis Using Machine Learning
+- Diesel-Engine Fault Diagnosis Using Machine Learning
 - Metaheuristic and ANN-Based MPPT for Photovoltaic Systems
-- Intelligent Control and Optimization Systems
-- Privacy-Aware and Security-Oriented Data Analysis
 
 ---
 
 ## Academic and Research Profile
 
-I have extensive experience in academic research, university-level teaching, scientific writing, interdisciplinary collaboration, and applied research projects. My professional goal is to contribute to advanced research and technical projects that require analytical thinking, innovation, mathematical modeling, data-driven analysis, secure computing, and strong problem-solving capabilities.
+I have extensive experience in academic research, university-level teaching, scientific writing, interdisciplinary collaboration, and applied research projects. My professional goal is to contribute to advanced research and technical projects that require analytical thinking, mathematical modeling, secure computing, and strong problem-solving capabilities.
 
-I am especially interested in research collaborations and technical projects related to:
+I am especially open to research collaborations and opportunities in:
 
-- Quantum Artificial Intelligence
-- Secure Multimedia Processing
-- Intelligent Signal Analysis
+- Quantum Artificial Intelligence and Quantum Security
+- Secure Multimedia and Signal Processing
 - Data Science and Applied Machine Learning
 - Quantum-Inspired Optimization
-- Audio Security and Steganalysis
-- AI-Based Engineering Systems
 
 ---
 
@@ -187,22 +149,15 @@ I am especially interested in research collaborations and technical projects rel
 
 ---
 
-## Research Vision
-
-My research vision is to develop intelligent, secure, and scalable computational frameworks that combine the strengths of classical artificial intelligence, signal processing, multimedia security, and quantum computing.
-
-I am particularly motivated by research problems where advanced data analysis, secure representation, robust optimization, and intelligent decision-making are required. I believe that future intelligent systems will increasingly depend on the integration of **classical AI, quantum-inspired computation, privacy-aware data processing, and secure multimedia technologies**.
-
----
-
 ## Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/javad-chaharlang-ph-d-7b417555
-- GitHub: https://github.com/javad-chaharlang
 - Google Scholar: https://scholar.google.com/citations?user=dWVhDjMAAAAJ&hl=en&oi=ao
+- ResearchGate: https://www.researchgate.net/profile/Javad-Chaharlang
+- ORCID: https://orcid.org/0000-0001-9558-8414
 
 ---
 
 <p align="center">
-  <b>Computer Engineering | Quantum AI | Data Science | Signal Processing | Multimedia Security</b>
+  <b>Research Scientist | Quantum ML & Quantum Security | AI & Data Science | Secure Signal Processing</b>
 </p>
