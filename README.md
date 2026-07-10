@@ -1,163 +1,133 @@
-<h1 align="center">Hi, I'm Javad Chaharlang</h1>
+<h1 align="center">Javad Chaharlang, PhD</h1>
 
 <p align="center">
-  <strong>
-    Research Scientist | Quantum ML & Quantum Security | AI & Data Science | Secure Signal Processing
-  </strong>
+  <strong>Research Scientist | Quantum AI & Machine Learning | Secure Signal Processing | Applied AI & Data Science</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/javad-chaharlang-ph-d-7b417555/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=dWVhDjMAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" />
+  </a>
+  <a href="https://orcid.org/0000-0001-9558-8414">
+    <img src="https://img.shields.io/badge/ORCID-0000--0001--9558--8414-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" />
+  </a>
 </p>
 
 ---
 
-## About Me
+## Research Profile
 
-I am a **Research Scientist and Ph.D. in Computer Engineering**, working across classical and quantum machine learning. I apply data-driven methods — supervised/unsupervised learning, time-series analysis, and complex-network analysis — to applied problems including fault diagnosis, intrusion detection, and optimization-driven control systems, alongside a research specialization in **Quantum Computing, Quantum Machine Learning (QML), Quantum Signal Processing, and Quantum Information Security**.
+I am an **independent Research Scientist with a PhD in Computer Engineering**, specializing in **Quantum Computing, Quantum Machine Learning, Secure Signal Processing, and Applied AI/Data Science**.
 
-My core research focuses on quantum-based representation and processing of digital signals, including quantum-domain signal modeling, time–frequency analysis, feature extraction, and classification. I develop classical, quantum, and hybrid quantum–classical methods for quantum feature representation, secure information processing, multimedia intelligence, and biomedical AI.
+My primary research focuses on quantum-native representation and analysis of digital signals, particularly quantum audio steganography, steganalysis, watermarking, multimedia security, and quantum-enhanced classification. I design and evaluate classical, quantum, and hybrid quantum–classical methods for feature representation, secure information processing, robustness analysis, and noise-aware simulation.
 
-I have more than **15 years of experience** in academic teaching, scientific research, technical writing, and applied research projects, and I am open to international postdoctoral, research fellow, research scientist, and data scientist opportunities.
+My peer-reviewed record includes three first-author articles in international Elsevier and Springer journals, together with collaborative research in hybrid quantum–classical medical imaging. I also bring more than 15 years of combined research and university experience in computer engineering, intelligent systems, signal processing, and data-driven modeling.
 
 ---
 
-## Main Research Areas
+## Research Interests
 
 - Quantum Computing and Quantum Machine Learning
-- Quantum Information Security and Quantum Cryptography
-- Classical and Quantum Signal Processing
-- Artificial Intelligence and Machine Learning
-- Data Science and Data Mining
-- Secure Multimedia Processing
-- Audio Steganography, Watermarking, and Steganalysis
-- Data Security and Privacy-Aware Computing
-- Intelligent Data-Driven Systems
+- Quantum Signal Processing and Quantum-Native Feature Representation
+- Quantum Audio Steganography, Steganalysis, and Watermarking
+- Multimedia Security and Secure Information Processing
+- Artificial Intelligence, Machine Learning, and Data Science
+- Time-Series and Sensor Analytics
 - Complex Networks and Graph-Based Analysis
-- Intelligent Control and Optimization
+- Metaheuristic and Multi-Objective Optimization
 
 ---
 
-## Current Research Focus
+## Current Research
 
-I am currently working on hybrid classical–quantum machine learning models and quantum-based feature representation for secure signal and multimedia analysis. In particular:
-
-- Quantum kernel learning, variational quantum circuits, and quantum neural networks
-- QCNN-based readout for quantum-native signal classification
-- QFT / QHWT / QWPT-based signal transformations
-- Optimization-driven quantum audio watermarking and steganalysis
-- Extension of this security-focused foundation toward quantum cryptography and post-quantum secure signal processing
+- **Fully quantum audio steganalysis:** QRDS-based representation, angle encoding, QFT-to-Mel sampling, quantum feature loading, and QCNN-based readout.
+- **Hybrid quantum–classical learning:** quantum kernels, variational quantum circuits, quantum neural networks, and noise-aware classification.
+- **Quantum signal representations:** QFT-, QHWT/QDWT-, and QWPT-based time–frequency and multiresolution analysis.
+- **Optimization-driven quantum security:** multi-objective selection of robust embedding locations for quantum audio watermarking and steganography.
+- **Reproducible QML:** simulator-based evaluation, comparative baselines, ablation studies, robustness analysis, and NISQ-aware experimentation.
 
 ---
 
-## Technical Skills
+## Selected Peer-Reviewed Publications
 
-### Programming and Scientific Computing
+1. **Chaharlang, J.**, Mosleh, M., & Rasouli-Heikalabad, S. (2024).  
+   [Quantum Reversible Audio Steganalysis Using Quantum Schmidt Decomposition and Quantum Support Vector Machine](https://doi.org/10.1016/j.jisa.2024.103755).  
+   *Journal of Information Security and Applications, 82*, 103755. **First author.**
+
+2. **Chaharlang, J.**, Mosleh, M., & Heikalabad, S. R. (2020).  
+   [A Novel Quantum Audio Steganography–Steganalysis Approach Using LSFQ-Based Embedding and QKNN-Based Classifier](https://doi.org/10.1007/s00034-020-01345-6).  
+   *Circuits, Systems, and Signal Processing, 39*(8), 3925–3957. **First author.**
+
+3. **Chaharlang, J.**, Mosleh, M., & Heikalabad, S. R. (2020).  
+   [A Novel Quantum Steganography–Steganalysis System for Audio Signals](https://doi.org/10.1007/s11042-020-08694-z).  
+   *Multimedia Tools and Applications, 79*(25), 17551–17577. **First author.**
+
+4. Salehi, S. A., Naderi, H., Asghari, S. A., **Chaharlang, J.**, & Savaria, Y. (2026).  
+   [Hybrid Quantum–Classical Architectures in Medical Imaging: A Taxonomy-Based Survey of COVID-19 Models](https://doi.org/10.3390/quantum8020054).  
+   *Quantum Reports, 8*(2), 54. **Contributing author.**
+
+[View full publication record on Google Scholar](https://scholar.google.com/citations?user=dWVhDjMAAAAJ&hl=en)
+
+---
+
+## Methods and Technical Toolkit
+
+| Area | Methods and Tools |
+|---|---|
+| **Quantum Computing & QML** | Qiskit, Qiskit Aer, Qiskit Machine Learning, PennyLane, quantum kernels, QSVM, QKNN, VQC, QNN, QCNN |
+| **AI & Data Science** | Python, scikit-learn, PyTorch, TensorFlow, supervised/unsupervised learning, deep learning, time-series analysis |
+| **Signal Processing & Security** | QFT, QHWT/QDWT, QWPT, QSVD, audio signal processing, steganography, steganalysis, watermarking |
+| **Scientific Computing** | MATLAB, NumPy, SciPy, pandas, Jupyter Notebook, Google Colab |
+| **Research Workflow** | Git/GitHub, LaTeX/Overleaf, experiment design, model evaluation, ablation analysis, reproducible simulation |
 
 <p>
-  <img src="https://img.shields.io/badge/Python-Programming-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white" alt="Qiskit" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/MATLAB-Scientific%20Computing-FF8000?style=flat-square" alt="MATLAB" />
-  <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-Code%20Hosting-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
-  <img src="https://img.shields.io/badge/Google%20Colab-Research-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-- Python, MATLAB, SQL
-- Git and GitHub
-- Jupyter Notebook, Google Colab
-- Simulink
+---
 
-### Artificial Intelligence and Data Science
+## Selected Public Repositories
 
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-AI-102230?style=flat-square" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-EE4C2C?style=flat-square" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/Data%20Science-Analytics-4B8BBE?style=flat-square" alt="Data Science" />
-  <img src="https://img.shields.io/badge/Data%20Mining-Knowledge%20Discovery-2E8B57?style=flat-square" alt="Data Mining" />
-  <img src="https://img.shields.io/badge/Optimization-Algorithms-6A5ACD?style=flat-square" alt="Optimization" />
-</p>
+This profile hosts selected public implementations and applied machine-learning projects. My complete peer-reviewed research record is available through Google Scholar.
 
-- Machine Learning, Deep Learning
-- Data Mining, Feature Extraction and Selection
-- Classification and Pattern Recognition
-- Model Evaluation and Performance Analysis
-- Optimization Algorithms and Data-Driven Modeling
-
-### Quantum Computing, Security, and Signal Processing
-
-<p>
-  <img src="https://img.shields.io/badge/Quantum%20Computing-QC-6929C4?style=flat-square" alt="Quantum Computing" />
-  <img src="https://img.shields.io/badge/Quantum%20Machine%20Learning-QML-8A2BE2?style=flat-square" alt="Quantum Machine Learning" />
-  <img src="https://img.shields.io/badge/Quantum%20Security-Cryptography-5B2C6F?style=flat-square" alt="Quantum Security" />
-  <img src="https://img.shields.io/badge/Signal%20Processing-DSP-00599C?style=flat-square" alt="Signal Processing" />
-  <img src="https://img.shields.io/badge/Multimedia%20Security-Security-B22222?style=flat-square" alt="Multimedia Security" />
-</p>
-
-- Quantum Computing, Quantum Machine Learning, Quantum-Inspired Algorithms
-- Quantum Signal Processing and Quantum Information Security
-- Digital and Audio Signal Processing
-- Steganography, Watermarking, and Steganalysis
-- Multimedia Security and Privacy-Aware Processing
+- [**Diesel-Engine Fault Diagnosis with Machine Learning**](https://github.com/javad-chaharlang/Diagnosis-and-classification-of-diesel-engine-component-defects-with-machine-learning) — Sensor/time-series classification for component-fault diagnosis.
+- [**Influential-Node Identification in Complex Networks**](https://github.com/javad-chaharlang/Influential-Nodes-Identification-in-Complex-Networks) — Centrality-driven analysis of influential nodes in complex and social networks.
+- [**Community Detection in Social Networks**](https://github.com/javad-chaharlang/community-detection-in-social-networks) — Graph-based analysis of community structure.
+- [**Intrusion Detection in Software-Defined Networks**](https://github.com/javad-chaharlang/Intrusion-Detection-System-Software-Defined-Networking) — Machine-learning-based network-traffic analysis and attack classification.
+- [**Metaheuristic/ANN-Based MPPT for Photovoltaic Systems**](https://github.com/javad-chaharlang/Metaheuristic-ANN-algorithms-for-maximum-power-point-tracking-of-the-photovoltaic-system) — Intelligent maximum-power-point tracking using neural networks and metaheuristic optimization.
 
 ---
 
-## Featured Project Areas
+## Collaboration and Opportunities
 
-**Quantum Computing and Quantum AI** — Research and implementation of quantum-inspired and hybrid classical–quantum methods for data representation, feature extraction, signal processing, and secure data analysis.
+I am open to international **postdoctoral, research fellow, research scientist, and selected applied AI/ML opportunities**—on-site, hybrid, or remote. I am particularly interested in collaborations involving:
 
-**Quantum and Multimedia Security** — Development of methods for audio steganography, watermarking, steganalysis, secure multimedia analysis, and privacy-aware signal processing.
+- Quantum AI and Quantum Machine Learning
+- Secure Multimedia and Quantum Signal Processing
+- Noise-Aware and Reproducible QML
+- Biomedical AI and Intelligent Signal Analysis
+- Applied Machine Learning and Data Science
 
-**Data Science and Machine Learning** — Applied machine learning and data-driven modeling for classification, fault diagnosis, intrusion detection, graph analysis, and intelligent decision-making.
-
-**Intelligent Systems and Optimization** — Design and analysis of intelligent control, optimization-based algorithms, and metaheuristic methods.
-
----
-
-## Selected GitHub Project Directions
-
-- Quantum Audio Steganalysis, Steganography, and Watermarking
-- Quantum Signal Processing and Quantum Machine Learning Applications
-- Classical and Hybrid AI/ML Models
-- Data Science and Machine Learning Applications
-- Community Detection and Influential-Node Identification in Complex Networks
-- Intrusion Detection in Software-Defined Networks
-- Diesel-Engine Fault Diagnosis Using Machine Learning
-- Metaheuristic and ANN-Based MPPT for Photovoltaic Systems
+Alongside my research, I teach graduate-level courses in artificial intelligence, data mining, deep learning, feature extraction and selection, and cloud computing.
 
 ---
 
-## Academic and Research Profile
+## Connect
 
-I have extensive experience in academic research, university-level teaching, scientific writing, interdisciplinary collaboration, and applied research projects. My professional goal is to contribute to advanced research and technical projects that require analytical thinking, mathematical modeling, secure computing, and strong problem-solving capabilities.
-
-I am especially open to research collaborations and opportunities in:
-
-- Quantum Artificial Intelligence and Quantum Security
-- Secure Multimedia and Signal Processing
-- Data Science and Applied Machine Learning
-- Quantum-Inspired Optimization
-
----
-
-## GitHub Statistics
+- [LinkedIn](https://www.linkedin.com/in/javad-chaharlang-ph-d-7b417555/)
+- [Google Scholar](https://scholar.google.com/citations?user=dWVhDjMAAAAJ&hl=en)
+- [ORCID](https://orcid.org/0000-0001-9558-8414)
+- [ResearchGate](https://www.researchgate.net/profile/Javad-Chaharlang)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javad-chaharlang&show_icons=true&hide_border=true&count_private=true" alt="Javad Chaharlang GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javad-chaharlang&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## Connect with Me
-
-- LinkedIn: https://www.linkedin.com/in/javad-chaharlang-ph-d-7b417555
-- Google Scholar: https://scholar.google.com/citations?user=dWVhDjMAAAAJ&hl=en&oi=ao
-- ResearchGate: https://www.researchgate.net/profile/Javad-Chaharlang
-- ORCID: https://orcid.org/0000-0001-9558-8414
-
----
-
-<p align="center">
-  <b>Research Scientist | Quantum ML & Quantum Security | AI & Data Science | Secure Signal Processing</b>
+  <b>Research Scientist | Quantum AI & Machine Learning | Secure Signal Processing | Applied AI & Data Science</b>
 </p>
