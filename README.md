@@ -123,7 +123,7 @@ Alongside my research, I teach graduate-level courses in artificial intelligence
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/javad-chaharlang-ph-d-7b417555/)
+- [LinkedIn](www.linkedin.com/in/javad-chaharlang-phd-7b417555/)
 - [Google Scholar](https://scholar.google.com/citations?user=dWVhDjMAAAAJ&hl=en)
 - [ORCID](https://orcid.org/0000-0001-9558-8414)
 - [ResearchGate](https://www.researchgate.net/profile/Javad-Chaharlang)
