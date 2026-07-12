@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/javad-chaharlang-ph-d-7b417555/">
+  <a href="https://www.linkedin.com/in/javad-chaharlang-phd-7b417555/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://scholar.google.com/citations?user=dWVhDjMAAAAJ&hl=en">
