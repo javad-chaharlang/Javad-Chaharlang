@@ -94,7 +94,33 @@ My peer-reviewed record includes three first-author articles in international El
 </p>
 
 ---
+## Featured Research Repository
 
+### [Quantum Signal Encoding Benchmarks](https://github.com/javad-chaharlang/quantum-signal-encoding-benchmarks)
+
+A reproducible research platform for implementing, validating, and critically benchmarking **quantum audio and quantum image representations with Qiskit**.
+
+The project begins with primary-paper reproduction and circuit-level validation of published quantum signal representations, then evaluates their practical limitations and suitability for downstream security research.
+
+**Current validated baseline:** QRDA — Quantum Representation of Digital Audio
+
+**Research trajectory:**
+
+**Quantum signal representations → security suitability → quantum steganography → quantum steganalysis → secure quantum medical imaging**
+
+Main research themes:
+
+- Quantum Signal Processing
+- Quantum Audio and Quantum Image Representation
+- Qiskit Circuit Validation and Transpilation Analysis
+- Quantum Security
+- Quantum Steganography and Watermarking
+- Quantum Steganalysis
+- Secure Quantum Medical Imaging
+- Reproducible Quantum Computing Research
+
+🔗 **Repository:**  
+https://github.com/javad-chaharlang/quantum-signal-encoding-benchmarks
 ## Selected Public Repositories
 
 This profile hosts selected public implementations and applied machine-learning projects. My complete peer-reviewed research record is available through Google Scholar.
@@ -123,7 +149,7 @@ Alongside my research, I teach graduate-level courses in artificial intelligence
 
 ## Connect
 
-- [LinkedIn](www.linkedin.com/in/javad-chaharlang-phd-7b417555/)
+- [LinkedIn](https://www.linkedin.com/in/javad-chaharlang-phd-7b417555/)
 - [Google Scholar](https://scholar.google.com/citations?user=dWVhDjMAAAAJ&hl=en)
 - [ORCID](https://orcid.org/0000-0001-9558-8414)
 - [ResearchGate](https://www.researchgate.net/profile/Javad-Chaharlang)
