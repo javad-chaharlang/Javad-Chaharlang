@@ -1,7 +1,7 @@
 <h1 align="center">Javad Chaharlang, PhD</h1>
 
 <p align="center">
-  <strong>Research Scientist | Quantum AI & Machine Learning | Secure Signal Processing | Applied AI & Data Science</strong>
+  <strong>Quantum Computing Research Scientist | Quantum Machine Learning | Quantum Signal Processing | Quantum Information Security & Cryptography</strong>
 </p>
 
 <p align="center">
@@ -20,34 +20,66 @@
 
 ## Research Profile
 
-I am an **independent Research Scientist with a PhD in Computer Engineering**, specializing in **Quantum Computing, Quantum Machine Learning, Secure Signal Processing, and Applied AI/Data Science**.
+I am an **independent Research Scientist with a PhD in Computer Engineering**, specializing in **Quantum Computing, Quantum Machine Learning (QML), Quantum Signal Processing, and Quantum Information Security**.
 
-My primary research focuses on quantum-native representation and analysis of digital signals, particularly quantum audio steganography, steganalysis, watermarking, multimedia security, and quantum-enhanced classification. I design and evaluate classical, quantum, and hybrid quantum–classical methods for feature representation, secure information processing, robustness analysis, and noise-aware simulation.
+My research focuses on the **quantum-native representation, processing, and analysis of digital signals**, with particular interests in quantum signal encoding, quantum feature representation, quantum-enhanced classification, quantum audio and multimedia processing, secure information processing, and hybrid quantum–classical learning.
 
-My peer-reviewed record includes three first-author articles in international Elsevier and Springer journals, together with collaborative research in hybrid quantum–classical medical imaging. I also bring more than 15 years of combined research and university experience in computer engineering, intelligent systems, signal processing, and data-driven modeling.
+I am particularly interested in developing methods that are **reproducible, resource-aware, and meaningful for current NISQ-era quantum systems**, including circuit-level validation, reconstruction analysis, resource estimation, and noise-aware evaluation.
 
----
+With more than **15 years of combined research, university teaching, scientific writing, and technical project experience**, I bring a strong classical foundation in machine learning, deep learning, signal processing, time-series analysis, optimization, and computational modeling to the design and evaluation of quantum and hybrid learning systems.
 
-## Research Interests
-
-- Quantum Computing and Quantum Machine Learning
-- Quantum Signal Processing and Quantum-Native Feature Representation
-- Quantum Audio Steganography, Steganalysis, and Watermarking
-- Multimedia Security and Secure Information Processing
-- Artificial Intelligence, Machine Learning, and Data Science
-- Time-Series and Sensor Analytics
-- Complex Networks and Graph-Based Analysis
-- Metaheuristic and Multi-Objective Optimization
+My peer-reviewed record includes **three first-author journal articles** in quantum audio, steganography/steganalysis, information security, and machine learning, together with collaborative research in hybrid quantum–classical medical imaging.
 
 ---
 
-## Current Research
+## Research Focus
 
-- **Fully quantum audio steganalysis:** QRDS-based representation, angle encoding, QFT-to-Mel sampling, quantum feature loading, and QCNN-based readout.
-- **Hybrid quantum–classical learning:** quantum kernels, variational quantum circuits, quantum neural networks, and noise-aware classification.
-- **Quantum signal representations:** QFT-, QHWT/QDWT-, and QWPT-based time–frequency and multiresolution analysis.
-- **Optimization-driven quantum security:** multi-objective selection of robust embedding locations for quantum audio watermarking and steganography.
-- **Reproducible QML:** simulator-based evaluation, comparative baselines, ablation studies, robustness analysis, and NISQ-aware experimentation.
+- **Quantum Computing and Quantum Machine Learning**
+- **Quantum Signal Processing and Quantum Signal Representation**
+- **Quantum Information Security and Cryptography**
+- **Quantum Audio and Secure Multimedia Processing**
+- **Quantum Feature Maps, Kernels, Variational Circuits, QNNs, and QCNNs**
+- **Hybrid Quantum–Classical Learning Systems**
+- **NISQ-Aware, Noise-Aware, and Reproducible Quantum Computing**
+
+---
+
+## Featured Research Project
+
+### [Quantum Signal Encoding Benchmarks](https://github.com/javad-chaharlang/quantum-signal-encoding-benchmarks)
+
+A reproducible research platform for implementing, validating, and critically benchmarking **quantum representations of classical signals with Qiskit**.
+
+The project starts from primary-paper reproduction and circuit-level validation, then evaluates **representation semantics, reconstruction behavior, resource requirements, and noise sensitivity** before moving toward downstream quantum machine learning and security applications.
+
+| Representation | Status | Research Role |
+|---|---|---|
+| **QRDA** | Completed | Unsigned/sample-addressed quantum audio baseline |
+| **FRQA** | Released in v0.3.0 | Direct signed-integer quantum audio baseline |
+| **QRDS** | Completed on `main` | Signed fixed-point / fractional baseline |
+| **QRMA** | Current development | Multichannel signed-integer representation |
+
+### Research Trajectory
+
+**Validated Signal Representations → Representation Suitability → Quantum Information Hiding → Quantum Machine Learning → Quantum Steganalysis → Secure Quantum Medical Imaging**
+
+The repository follows a strict research principle: a quantum signal representation is not considered complete until its **state definition, circuit preparation, decoding procedure, reconstruction accuracy, resource requirements, and noise sensitivity** have been evaluated.
+
+---
+
+## Current Research Directions
+
+- **Quantum Signal Representation:** comparative analysis of signed/unsigned, integer/fixed-point, single-channel/multichannel, and basis/probability-based quantum signal encodings.
+
+- **Quantum Machine Learning:** quantum kernels, feature maps, QSVM, QKNN, variational quantum circuits, quantum neural networks, QCNNs, and quantum-enhanced classification.
+
+- **Quantum Signal Processing:** QFT-, QHWT/QDWT-, and QWPT-based time–frequency and multiresolution representations for audio and multimedia data.
+
+- **Quantum Information Security:** steganography, steganalysis, watermarking, secure feature processing, and robustness under noise and attacks.
+
+- **Hybrid Quantum–Classical Learning:** quantum-enhanced representation and classification for complex data, including biomedical applications.
+
+- **Reproducible Quantum Research:** simulator-based validation, comparative baselines, ablation studies, circuit-resource analysis, and NISQ-aware experimentation.
 
 ---
 
@@ -73,77 +105,64 @@ My peer-reviewed record includes three first-author articles in international El
 
 ---
 
-## Methods and Technical Toolkit
+## Methods and Research Stack
 
 | Area | Methods and Tools |
 |---|---|
-| **Quantum Computing & QML** | Qiskit, Qiskit Aer, Qiskit Machine Learning, PennyLane, quantum kernels, QSVM, QKNN, VQC, QNN, QCNN |
-| **AI & Data Science** | Python, scikit-learn, PyTorch, TensorFlow, supervised/unsupervised learning, deep learning, time-series analysis |
-| **Signal Processing & Security** | QFT, QHWT/QDWT, QWPT, QSVD, audio signal processing, steganography, steganalysis, watermarking |
-| **Scientific Computing** | MATLAB, NumPy, SciPy, pandas, Jupyter Notebook, Google Colab |
-| **Research Workflow** | Git/GitHub, LaTeX/Overleaf, experiment design, model evaluation, ablation analysis, reproducible simulation |
+| **Quantum Computing** | Qiskit, Qiskit Aer, Qiskit Machine Learning, PennyLane, circuit simulation, transpilation, resource analysis |
+| **Quantum Machine Learning** | Quantum kernels, feature maps, QSVM, QKNN, VQC, QNN, QCNN, hybrid quantum–classical workflows |
+| **Quantum Signal Processing & Security** | QFT, QHWT/QDWT, QWPT, quantum audio representations, steganography, steganalysis, watermarking |
+| **Classical ML Foundation** | Python, PyTorch, TensorFlow, scikit-learn, NumPy, SciPy, pandas, MATLAB |
+| **Research Workflow** | Git/GitHub, Jupyter, Google Colab, LaTeX/Overleaf, experiment design, ablation analysis, reproducible simulation |
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white" alt="Qiskit" />
+  <img src="https://img.shields.io/badge/PennyLane-Quantum%20ML-111111?style=flat-square" alt="PennyLane" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/MATLAB-Scientific%20Computing-FF8000?style=flat-square" alt="MATLAB" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
 ---
-## Featured Research Repository
 
-### [Quantum Signal Encoding Benchmarks](https://github.com/javad-chaharlang/quantum-signal-encoding-benchmarks)
+## Supporting Classical AI & Computational Research
 
-A reproducible research platform for implementing, validating, and critically benchmarking **quantum audio and quantum image representations with Qiskit**.
+My earlier and complementary public projects provide the classical computational foundation for my quantum and hybrid research:
 
-The project begins with primary-paper reproduction and circuit-level validation of published quantum signal representations, then evaluates their practical limitations and suitability for downstream security research.
+- [**Diesel-Engine Fault Diagnosis with Machine Learning**](https://github.com/javad-chaharlang/Diagnosis-and-classification-of-diesel-engine-component-defects-with-machine-learning) — Sensor and time-series classification for component-fault diagnosis.
 
-**Current validated baseline:** QRDA — Quantum Representation of Digital Audio
-
-**Research trajectory:**
-
-**Quantum signal representations → security suitability → quantum steganography → quantum steganalysis → secure quantum medical imaging**
-
-Main research themes:
-
-- Quantum Signal Processing
-- Quantum Audio and Quantum Image Representation
-- Qiskit Circuit Validation and Transpilation Analysis
-- Quantum Security
-- Quantum Steganography and Watermarking
-- Quantum Steganalysis
-- Secure Quantum Medical Imaging
-- Reproducible Quantum Computing Research
-
-🔗 **Repository:**  
-https://github.com/javad-chaharlang/quantum-signal-encoding-benchmarks
-## Selected Public Repositories
-
-This profile hosts selected public implementations and applied machine-learning projects. My complete peer-reviewed research record is available through Google Scholar.
-
-- [**Diesel-Engine Fault Diagnosis with Machine Learning**](https://github.com/javad-chaharlang/Diagnosis-and-classification-of-diesel-engine-component-defects-with-machine-learning) — Sensor/time-series classification for component-fault diagnosis.
-- [**Influential-Node Identification in Complex Networks**](https://github.com/javad-chaharlang/Influential-Nodes-Identification-in-Complex-Networks) — Centrality-driven analysis of influential nodes in complex and social networks.
-- [**Community Detection in Social Networks**](https://github.com/javad-chaharlang/community-detection-in-social-networks) — Graph-based analysis of community structure.
 - [**Intrusion Detection in Software-Defined Networks**](https://github.com/javad-chaharlang/Intrusion-Detection-System-Software-Defined-Networking) — Machine-learning-based network-traffic analysis and attack classification.
+
+- [**Influential-Node Identification in Complex Networks**](https://github.com/javad-chaharlang/Influential-Nodes-Identification-in-Complex-Networks) — Centrality-driven analysis of influential nodes in complex and social networks.
+
+- [**Community Detection in Social Networks**](https://github.com/javad-chaharlang/community-detection-in-social-networks) — Graph-based community-structure analysis.
+
 - [**Metaheuristic/ANN-Based MPPT for Photovoltaic Systems**](https://github.com/javad-chaharlang/Metaheuristic-ANN-algorithms-for-maximum-power-point-tracking-of-the-photovoltaic-system) — Intelligent maximum-power-point tracking using neural networks and metaheuristic optimization.
+
+---
+
+## Academic Background & Teaching
+
+Alongside my research, I have extensive university teaching experience in **Computer Engineering, Artificial Intelligence, Machine Learning, Data Mining, Deep Learning, Signal Processing, Feature Selection and Extraction, and Cloud Computing**.
+
+My teaching and supervision emphasize **research-oriented learning, reproducible experimentation, scientific computing, model evaluation, and practical implementation**.
 
 ---
 
 ## Collaboration and Opportunities
 
-I am open to international **postdoctoral, research fellow, research scientist, and selected applied AI/ML opportunities**—on-site, hybrid, or remote. I am particularly interested in collaborations involving:
+I am open to international opportunities as a **Quantum Computing Research Scientist, Quantum Machine Learning Researcher, Postdoctoral Researcher, Research Fellow, or Quantum R&D Scientist**, including on-site, hybrid, and remote positions.
 
-- Quantum AI and Quantum Machine Learning
-- Secure Multimedia and Quantum Signal Processing
-- Noise-Aware and Reproducible QML
-- Biomedical AI and Intelligent Signal Analysis
-- Applied Machine Learning and Data Science
+I am particularly interested in research collaborations involving:
 
-Alongside my research, I teach graduate-level courses in artificial intelligence, data mining, deep learning, feature extraction and selection, and cloud computing.
+- Quantum Machine Learning
+- Quantum Signal Processing
+- Quantum Information Security and Cryptography
+- Quantum Audio and Secure Multimedia Processing
+- Hybrid Quantum–Classical Computing
+- NISQ-Aware and Reproducible Quantum Research
 
 ---
 
@@ -155,5 +174,5 @@ Alongside my research, I teach graduate-level courses in artificial intelligence
 - [ResearchGate](https://www.researchgate.net/profile/Javad-Chaharlang)
 
 <p align="center">
-  <b>Research Scientist | Quantum AI & Machine Learning | Secure Signal Processing | Applied AI & Data Science</b>
+  <b>Quantum Computing Research Scientist | Quantum Machine Learning | Quantum Signal Processing | Quantum Information Security & Cryptography</b>
 </p>
